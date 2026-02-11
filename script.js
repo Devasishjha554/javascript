@@ -476,13 +476,53 @@
 
 
 
-const bike={
-    name:"bullet",
-    print:function(){
-        console.log("the bike is " +this.name);
-    }
-};
-bike.print();
+// const bike={
+//     name:"bullet",
+//     print:function(){
+//         console.log("the bike is " +this.name);
+//     }
+// };
+// bike.print();
+
+
+
+
+
+// const num=[3,5,7,8,36];
+// console.log(num[1])
+
+
+
+// const num=[23,45,2,3,4];
+// let array=num.map((Number,index)=>{
+//     console.log("number is:",Number,"index:",index)
+
+// })
+// console.log(array.length);
+
+
+
+//  const num=[23,45,2,3,4];
+//  for( let i=0;i<=num.length;i++){
+//     console.log(num[i])
+//  }
+
+
+// const num=[1,2,3,4];
+// let i=0;
+// do{
+//     console.log(num[i])
+//     i++;
+// }while(i<num.length);
+
+
+
+
+
+
+
+
+
 
 
 
